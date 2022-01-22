@@ -1,4 +1,5 @@
-Hi, I'm damix, I mostly code in python, and I mostly make closed source stuff because the code is a mess
-- 👀 I’m interested in node.js
-- 🌱 I’m currently learning C++
+adsfksdojkgfsjkdgjkdfhgkdklfghsdlkjfghldfgkhdflkghkldflkghdfklhgklshgkl
+
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning C++ (help)
 - 📫 How to reach me: damix#2462 is my discord
