@@ -1,5 +1,5 @@
 bruh
 
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning dart
-- 📫 How to reach me: damix#2462 is my discord
+- 👀 I’m interested in mobile dev
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me: info@latinary.com
